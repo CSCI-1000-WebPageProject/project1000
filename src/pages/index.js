@@ -1,5 +1,7 @@
 import Head from 'next/head'
 
+
+// https://csci1000-project-ethan-maya.netlify.app/
 export default function Home() {
   return (
     <div className='container'>
@@ -9,15 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 className='title'>Congratulations! You've set up your webapp!</h1>
+        <h1 className='title'>About us group 53 CSCI 1000</h1>
 
         <p className='description'>
-          Get started by editing <code>src/pages/index.js</code> to be your
-          project home page.
-        </p>
-        <p className='description2'>
-          Next, each team member will create their own about me file in the
-          pages directory:{' '}
+          Group members- Maya willams, Ethan Berk
         </p>
         <code>src/page/teamMemberName.js</code>
 
