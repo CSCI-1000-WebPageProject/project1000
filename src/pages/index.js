@@ -29,6 +29,10 @@ export default function Home() {
             <h3>Ethan Berk's Page &rarr;</h3>
             <p>Click here to navigate to a Page about Ethan Berk </p>
           </a>
+          <a href='/MayaWilliams ' className='card'>
+            <h3>Maya Williams's Page &rarr;</h3>
+            <p>Click here to navigate to a Page about Maya Williams </p>
+          </a>
 
           <a
             href='https://github.com/vedant29/Project-CSCI-1000'
