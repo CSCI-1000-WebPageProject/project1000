@@ -15,7 +15,9 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            Hey I'm Maya, and I am a freshman in computer science. I'm planning on minoring in computational biology and am interested i
+            Hey I'm Maya, and I am a freshman in computer science. I'm planning on minoring in computational biology and am interested
+            in the biology aspect of computer science and learning how to implement it more in the field of medicine. I did a research
+            internship and CU Anshutz where we used excel and simple programs in a few cases. 
         
           </p>
 
