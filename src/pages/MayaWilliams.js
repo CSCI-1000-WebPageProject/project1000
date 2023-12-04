@@ -18,8 +18,10 @@ export default function examplePage() {
             Hey I'm Maya, and I am a freshman in computer science. I'm planning on minoring in computational biology 
             and am interested in the biology aspect of computer science and learning how to implement it more in 
             the field of medicine. I did a research internship at CU Anshutz where we used excel and simple programs 
-            in a few cases, and it is interesting to see how computer science is adapting to medical research.
-            In my freetime I enjoy doing art, running, and writing. 
+            in a few cases, and it is interesting to see how computer science is adapting to medical research. I have 
+            an interest in learning about AI, and its use with certain medical technology, such as the ability
+            to detect things people have a harder time with. In my freetime I enjoy doing art, like drawing and painting,
+            along with running.
         
           </p>
 
